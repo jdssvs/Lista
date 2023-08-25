@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo-Tv-Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="Variedades",Globo (Rede Bahia)
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://th.bing.com/th/id/R.f758379b2ff54132633c5473a1310ae7?rik=Tzw1k07TtcO6rg&riu=http%3a%2f%2frecordtv.r7.com%2femissoras-record%2ffiles%2f2017%2f12%2fBA_RECORDTV-ITAPOAN_SALVADOR.png&ehk=F6qwK738SR0l4o4EHKFqZYdiJcs5113npzdHADSIj7A%3d&risl=&pid=ImgRaw&r=0" group-title="Variedades",Record Tv (Bahia)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Band-ba" tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Variedades",Band-ba
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1671525141.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAIS ABERTOS", SBT HD
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
